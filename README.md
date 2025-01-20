@@ -22,4 +22,4 @@ shap==0.42.1
 matplotlib==3.5.3
 
 # Acknowledgement
-part of the code if borroed form  https://github.com/lanbiolab/DeepKEGG and https://github.com/jianglindong93/AUTOSurv
+part of the code if borrowed form  https://github.com/lanbiolab/DeepKEGG and https://github.com/jianglindong93/AUTOSurv
